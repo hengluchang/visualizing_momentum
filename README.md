@@ -1,12 +1,12 @@
 # visualizing_momentum
-Visualizing Gradient Descent with Momentum in Python, check out the blog post here! 
+Visualizing Gradient Descent with Momentum in Python, check out the blog post [here](https://medium.com/@hengluchang/visualizing-gradient-descent-with-momentum-in-python-7ef904c8a847)! 
 
 # Pre-reqs
 Python 3.6
 
 # Libraries
-matplotlib
-numpy
+- matplotlib
+- numpy
 
 # How to run
 `python3 loss_surface.py` to generate loss surface figure. 
